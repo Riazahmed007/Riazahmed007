@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riazahmed007
-- 👀 I’m interested in the networking, cloud computing, Python/Bash scripting, Docker containers and CI/CD Pipelines. 
-- 🌱 I’m currently learning about AWS & what it can be used for. 
+- 👀 I’m interested in networking, cloud computing, Python/Bash scripting, Docker containers and CI/CD Pipelines. 
+- 🌱 I’m currently learning about AWS & how businesses utilize the cloud. 
 - 💞️ I’m looking to collaborate on projects to build on my understanding of cloud computing. 
 - 📫 How to reach me via email: Riazahmed67998@gmail.com
 
